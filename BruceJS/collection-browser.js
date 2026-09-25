@@ -86,7 +86,14 @@ var DESC = {
   "prank":{ic:"[FUN]",d:"harmless pranks"},"destructive":{ic:"[!!]",d:"destructive payloads"},
   "credentials":{ic:"[!]",d:"credential theft"},"exfiltration":{ic:"[!]",d:"data exfiltration"},
   "BadUSB":{ic:"[USB]",d:"mixed payloads"},"omg-payloads-master":{ic:"[LIB]",d:"O.MG payload library"},
-  "BadUSB-FalsePhilosopher":{ic:"[LIB]",d:"large payload archive"}
+  "BadUSB-FalsePhilosopher":{ic:"[LIB]",d:"large payload archive"},
+  "my-flipper-shits":{ic:"[USB]",d:"Linux/CVE/Telegram payloads"},"hak5-official":{ic:"[LIB]",d:"official Hak5 lib"},
+  "nullsec-ducky-payloads":{ic:"[USB]",d:"Cloud/DevOps payloads"},"keyboard-layouts":{ic:"[KB]",d:"non-US layouts AZERTY/QWERTZ"},
+  "pwnKit":{ic:"[!]",d:"Linux privesc CVE-2021-4034"},"V3sth4cks153-scripts":{ic:"[USB]",d:"macOS/Linux exploits"},
+  "Automotive":{ic:"[CAR]",d:"car key fobs (rolling-code)"},"Zero-Sploit-DB":{ic:"[RF]",d:"extra sub-GHz captures"},
+  "intercom-keys":{ic:"[1W]",d:"domophone/intercom keys"},"StarNew":{ic:"[KEY]",d:"StarNew intercom keys"},
+  "L-ubu-portals":{ic:"[WIFI]",d:"EU airline/rail portals"},"Batcherss":{ic:"[WIFI]",d:"Bruce-native portals"},
+  "Borys":{ic:"[WIFI]",d:"portal database"},"nbox-chameleon":{ic:"[KEY]",d:"extended Mifare key dict"}
 };
 
 // --- path utils -------------------------------------------------------------
@@ -99,7 +106,8 @@ function extIcon(e){ if(e==="sub")return "[sub]"; if(e==="ir")return "[ir]"; if(
 function fileHint(e){ if(e==="sub")return "Sub-GHz signal. Open to see frequency, then Transmit."; if(e==="ir")return "Infrared code. Open, then Emit at the device."; if(e==="nfc")return "NFC tag. Open to write it to a blank tag."; if(e==="ibtn")return "iButton key. View only (native menu to emulate)."; if(e==="html")return "Evil Portal page. View only (native WiFi menu)."; if(e==="txt")return "BadUSB payload. READ before you Run it."; return "File. Open to view."; }
 
 // --- disk (tolerant) --------------------------------------------------------
-function tryReaddir(p){ try{ var r=storage.readdir(p); return (r&&r.length!==undefined)?r:null; }catch(eRd){ return null; } }
+function normDir(r){ return (r&&r.length!==undefined)?r:null; }
+function tryReaddir(p){ try{ return normDir(storage.readdir(p,{withFileTypes:true})); }catch(eRd){ try{ return normDir(storage.readdir(p)); }catch(eRd2){ return null; } } }
 function readLines(path,size){ if(size&&size>META_MAX)return null; try{ var s=storage.read(path); if(typeof s!=="string")return null; return s.split("\n"); }catch(eRead){ return null; } }
 function entryName(e){ if(e===null||e===undefined)return null; if(typeof e==="string")return e; if(typeof e==="number")return null; if(e.name!==undefined&&e.name!==null)return e.name; if(e.n!==undefined&&e.n!==null)return e.n; if(e.fileName!==undefined)return e.fileName; if(e.filename!==undefined)return e.filename; if(e.path!==undefined)return baseName(e.path); if(e.file!==undefined)return e.file; return null; }
 function entrySize(e){ if(e&&typeof e==="object"){ if(e.size!==undefined)return e.size; if(e.length!==undefined)return e.length; } return 0; }
@@ -300,6 +308,8 @@ var THEMES=[
   {ic:"[LED]",name:"LED lights",paths:["BruceRF/LED","BruceIR/LED_Lighting"]},
   {ic:"[PAGE]",name:"Pager",paths:["BruceRF/Restaurant_Pagers","BruceRF/Pocsag"]},
   {ic:"[CAR]",name:"Vehicle",paths:["BruceRF/Vehicles"]},
+  {ic:"[CAR]",name:"Car key fob",paths:["BruceRF/Automotive"]},
+  {ic:"[1W]",name:"Intercom / domophone",paths:["BruceIBTN/intercom-keys","BruceIBTN/StarNew","BruceIBTN/Keys","BruceIBTN/StarButton"]},
   {ic:"[H2O]",name:"Sprinkler",paths:["BruceRF/Sprinklers"]},
   {ic:"[TV]",name:"TV",paths:["BruceIR/TVs","BruceIR/Universal_TV_Remotes"]},
   {ic:"[AC]",name:"Air conditioner",paths:["BruceIR/ACs","BruceIR/ac"]},

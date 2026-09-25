@@ -1,0 +1,126 @@
+path	category	name	protocol
+BruceIBTN/Keys/B11.ibtn	Keys	B11	
+BruceIBTN/Keys/B14.ibtn	Keys	B14	
+BruceIBTN/Keys/B15.ibtn	Keys	B15	
+BruceIBTN/Keys/B3.ibtn	Keys	B3	
+BruceIBTN/Keys/B5.ibtn	Keys	B5	
+BruceIBTN/Keys/B6_center.ibtn	Keys	B6_center	
+BruceIBTN/Keys/B7.ibtn	Keys	B7	
+BruceIBTN/Keys/B9.ibtn	Keys	B9	
+BruceIBTN/Keys/R10.ibtn	Keys	R10	
+BruceIBTN/Keys/R12.ibtn	Keys	R12	
+BruceIBTN/Keys/R13.ibtn	Keys	R13	
+BruceIBTN/Keys/R16.ibtn	Keys	R16	
+BruceIBTN/Keys/R2.ibtn	Keys	R2	
+BruceIBTN/Keys/R3.ibtn	Keys	R3	
+BruceIBTN/Keys/R4.ibtn	Keys	R4	
+BruceIBTN/Keys/R7eltis_center.ibtn	Keys	R7eltis_center	
+BruceIBTN/Kondor.ibtn	Kondor.ibtn	Kondor	DS1990
+BruceIBTN/OfficeMet.ibtn	OfficeMet.ibtn	OfficeMet	DS1990
+BruceIBTN/random/brn2.ibtn	random	brn2	
+BruceIBTN/random/brn3.ibtn	random	brn3	
+BruceIBTN/random/brn4.ibtn	random	brn4	
+BruceIBTN/random/brn5.ibtn	random	brn5	
+BruceIBTN/random/brn6.ibtn	random	brn6	
+BruceIBTN/random/debug_metakom_1.ibtn	random	debug_metakom_1	DS1990
+BruceIBTN/random/debug_metakom_2.ibtn	random	debug_metakom_2	DS1990
+BruceIBTN/random/debug_star_kondor_1.ibtn	random	debug_star_kondor_1	DS1990
+BruceIBTN/random/debug_star_metakom_3.ibtn	random	debug_star_metakom_3	DS1990
+BruceIBTN/random/debug_star_vizit_3.ibtn	random	debug_star_vizit_3	DS1990
+BruceIBTN/random/debug_vizit_1.ibtn	random	debug_vizit_1	DS1990
+BruceIBTN/random/debug_vizit_2.ibtn	random	debug_vizit_2	DS1990
+BruceIBTN/random/kgn_Metakom_3.ibtn	random	kgn_Metakom_3	
+BruceIBTN/random/msk_B1-vizit-kgn_Dallas_2.ibtn	random	msk_B1-vizit-kgn_Dallas_2	
+BruceIBTN/random/msk_brn_F1_forward.ibtn	random	msk_brn_F1_forward	
+BruceIBTN/random/msk_C1.ibtn	random	msk_C1	
+BruceIBTN/random/msk_E1.ibtn	random	msk_E1	
+BruceIBTN/random/msk_E2.ibtn	random	msk_E2	
+BruceIBTN/random/msk_K1.ibtn	random	msk_K1	
+BruceIBTN/random/msk_M1.ibtn	random	msk_M1	
+BruceIBTN/random/msk_M2.ibtn	random	msk_M2	
+BruceIBTN/random/msk_visit.ibtn	random	msk_visit	DSGeneric
+BruceIBTN/random/msk_Y1.ibtn	random	msk_Y1	
+BruceIBTN/random/msk_Y2-vizit_cyfral-kgn_Dallas.ibtn	random	msk_Y2-vizit_cyfral-kgn_Dallas	
+BruceIBTN/random/msk_Y3_cyfral_ccd.ibtn	random	msk_Y3_cyfral_ccd	
+BruceIBTN/random/msk_Y4_vizit_metakom.ibtn	random	msk_Y4_vizit_metakom	
+BruceIBTN/random/msk_Y5.ibtn	random	msk_Y5	
+BruceIBTN/random/msk_Y6.ibtn	random	msk_Y6	
+BruceIBTN/random/msk_Y7.ibtn	random	msk_Y7	DSGeneric
+BruceIBTN/random/msk_zelenograd_1.ibtn	random	msk_zelenograd_1	
+BruceIBTN/random/spb_B11.ibtn	random	spb_B11	
+BruceIBTN/random/spb_B14.ibtn	random	spb_B14	
+BruceIBTN/random/spb_B3.ibtn	random	spb_B3	
+BruceIBTN/random/spb_B5.ibtn	random	spb_B5	
+BruceIBTN/random/spb_B6_center.ibtn	random	spb_B6_center	
+BruceIBTN/random/spb_B7.ibtn	random	spb_B7	
+BruceIBTN/random/spb_B9.ibtn	random	spb_B9	
+BruceIBTN/random/spb_center_plan.ibtn	random	spb_center_plan	DS1990
+BruceIBTN/random/spb_primorskii_63.ibtn	random	spb_primorskii_63	DS1990
+BruceIBTN/random/spb_primorskii_cf.ibtn	random	spb_primorskii_cf	DS1990
+BruceIBTN/random/spb_R10.ibtn	random	spb_R10	
+BruceIBTN/random/spb_R12.ibtn	random	spb_R12	
+BruceIBTN/random/spb_R13.ibtn	random	spb_R13	
+BruceIBTN/random/spb_R16.ibtn	random	spb_R16	
+BruceIBTN/random/spb_R2.ibtn	random	spb_R2	
+BruceIBTN/random/spb_R3.ibtn	random	spb_R3	
+BruceIBTN/random/spb_R4.ibtn	random	spb_R4	
+BruceIBTN/random/spb_R7eltis_center.ibtn	random	spb_R7eltis_center	
+BruceIBTN/random/star_Cyfral.ibtn	random	star_Cyfral	
+BruceIBTN/random/star_ELTIs.ibtn	random	star_ELTIs	
+BruceIBTN/random/star_Forward.ibtn	random	star_Forward	
+BruceIBTN/random/star_KEY.ibtn	random	star_KEY	
+BruceIBTN/random/star_Metakom.ibtn	random	star_Metakom	
+BruceIBTN/random/star_METplus.ibtn	random	star_METplus	
+BruceIBTN/random/star_Un1st.ibtn	random	star_Un1st	
+BruceIBTN/random/star_Un3st.ibtn	random	star_Un3st	
+BruceIBTN/random/star_Un4st.ibtn	random	star_Un4st	
+BruceIBTN/random/star_Un5st.ibtn	random	star_Un5st	
+BruceIBTN/random/star_VIZ.ibtn	random	star_VIZ	
+BruceIBTN/random/star_VIZ2.ibtn	random	star_VIZ2	
+BruceIBTN/random/unknwn_a6_eltis.ibtn	random	unknwn_a6_eltis	DS1990
+BruceIBTN/random/unknwn_by_ap_1.ibtn	random	unknwn_by_ap_1	
+BruceIBTN/random/unknwn_cifral.ibtn	random	unknwn_cifral	DS1990
+BruceIBTN/random/unknwn_cyfral_70p.ibtn	random	unknwn_cyfral_70p	
+BruceIBTN/random/unknwn_cyfral_m1.ibtn	random	unknwn_cyfral_m1	
+BruceIBTN/random/unknwn_cyfral_m2.ibtn	random	unknwn_cyfral_m2	
+BruceIBTN/random/unknwn_cyfral_metakom.ibtn	random	unknwn_cyfral_metakom	
+BruceIBTN/random/unknwn_cyfral.ibtn	random	unknwn_cyfral	
+BruceIBTN/random/unknwn_d8_cifral.ibtn	random	unknwn_d8_cifral	DS1990
+BruceIBTN/random/unknwn_eltis_90p.ibtn	random	unknwn_eltis_90p	
+BruceIBTN/random/unknwn_lift.ibtn	random	unknwn_lift	
+BruceIBTN/random/unknwn_lift2.ibtn	random	unknwn_lift2	
+BruceIBTN/random/unknwn_metacom_95p.ibtn	random	unknwn_metacom_95p	
+BruceIBTN/random/unknwn_metacom_cyfral_fltr_secr.ibtn	random	unknwn_metacom_cyfral_fltr_secr	
+BruceIBTN/random/unknwn_metacom_cyfral.ibtn	random	unknwn_metacom_cyfral	
+BruceIBTN/random/unknwn_metacom.ibtn	random	unknwn_metacom	
+BruceIBTN/random/unknwn_metakom_cyfral.ibtn	random	unknwn_metakom_cyfral	
+BruceIBTN/random/unknwn_metakom_cyfral2.ibtn	random	unknwn_metakom_cyfral2	
+BruceIBTN/random/unknwn_metakom_vizit.ibtn	random	unknwn_metakom_vizit	
+BruceIBTN/random/unknwn_metakom.ibtn	random	unknwn_metakom	
+BruceIBTN/random/unknwn_type_dallas.ibtn	random	unknwn_type_dallas	
+BruceIBTN/random/unknwn_uni_f1.ibtn	random	unknwn_uni_f1	
+BruceIBTN/random/unknwn_uni_f2.ibtn	random	unknwn_uni_f2	
+BruceIBTN/random/unknwn_uni_ff.ibtn	random	unknwn_uni_ff	
+BruceIBTN/random/unknwn_vizit_1.ibtn	random	unknwn_vizit_1	DS1990
+BruceIBTN/random/unknwn_vizit_50p_2.ibtn	random	unknwn_vizit_50p_2	
+BruceIBTN/random/unknwn_vizit_50p.ibtn	random	unknwn_vizit_50p	
+BruceIBTN/random/unknwn_vizit_55p.ibtn	random	unknwn_vizit_55p	
+BruceIBTN/random/unknwn_vizit_99p.ibtn	random	unknwn_vizit_99p	
+BruceIBTN/random/unknwn_vizit_cyfral2.ibtn	random	unknwn_vizit_cyfral2	
+BruceIBTN/random/unknwn_vizit_keyman.ibtn	random	unknwn_vizit_keyman	
+BruceIBTN/random/unknwn_vizit_ser3.ibtn	random	unknwn_vizit_ser3	
+BruceIBTN/random/unknwn_vizit2.ibtn	random	unknwn_vizit2	
+BruceIBTN/StarButton/Cyfral.ibtn	StarButton	Cyfral	
+BruceIBTN/StarButton/ELTIS.ibtn	StarButton	ELTIS	
+BruceIBTN/StarButton/Forward.ibtn	StarButton	Forward	
+BruceIBTN/StarButton/KEY.ibtn	StarButton	KEY	
+BruceIBTN/StarButton/Metakom.ibtn	StarButton	Metakom	
+BruceIBTN/StarButton/METplus.ibtn	StarButton	METplus	
+BruceIBTN/StarButton/Un1st.ibtn	StarButton	Un1st	
+BruceIBTN/StarButton/Un2st.ibtn	StarButton	Un2st	
+BruceIBTN/StarButton/Un3st.ibtn	StarButton	Un3st	
+BruceIBTN/StarButton/Un4st.ibtn	StarButton	Un4st	
+BruceIBTN/StarButton/Un5st.ibtn	StarButton	Un5st	
+BruceIBTN/StarButton/VIZ.ibtn	StarButton	VIZ	
+BruceIBTN/StarButton/VIZ2.ibtn	StarButton	VIZ2	
+BruceIBTN/VizOff.ibtn	VizOff.ibtn	VizOff	DS1990

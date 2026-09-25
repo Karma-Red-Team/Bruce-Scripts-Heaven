@@ -1,0 +1,166 @@
+path	sector	brand
+BruceEVIL/Airlines/Air France/index.html	Airlines	Air France
+BruceEVIL/Airlines/Air France/WithForgotCredentials/index.html	Airlines	Air France
+BruceEVIL/Airlines/British Airways/index.html	Airlines	British Airways
+BruceEVIL/Airlines/British Airways/WithForgotCredentials/index.html	Airlines	British Airways
+BruceEVIL/Airlines/Brussels Airlines/index.html	Airlines	Brussels Airlines
+BruceEVIL/Airlines/Brussels Airlines/WithForgotCredentials/index.html	Airlines	Brussels Airlines
+BruceEVIL/Airlines/EasyJet/index.html	Airlines	EasyJet
+BruceEVIL/Airlines/EasyJet/WithForgotCredentials/index.html	Airlines	EasyJet
+BruceEVIL/Airlines/KLM/index.html	Airlines	KLM
+BruceEVIL/Airlines/KLM/WithForgotCredentials/index.html	Airlines	KLM
+BruceEVIL/Airlines/Lufthansa/index.html	Airlines	Lufthansa
+BruceEVIL/Airlines/Lufthansa/WithForgotCredentials/index.html	Airlines	Lufthansa
+BruceEVIL/Airlines/Ryanair/index.html	Airlines	Ryanair
+BruceEVIL/Airlines/Ryanair/WithForgotCredentials/index.html	Airlines	Ryanair
+BruceEVIL/Airlines/SwissAir/index.html	Airlines	SwissAir
+BruceEVIL/Airlines/SwissAir/WithForgotCredentials/index.html	Airlines	SwissAir
+BruceEVIL/Airlines/Turkish Airlines/index.html	Airlines	Turkish Airlines
+BruceEVIL/Airlines/Turkish Airlines/WithForgotCredentials/index.html	Airlines	Turkish Airlines
+BruceEVIL/Brands/Apple/index.html	Brands	Apple
+BruceEVIL/Brands/Apple/WithForgotCredentials/index.html	Brands	Apple
+BruceEVIL/Brands/Carlsberg/index.html	Brands	Carlsberg
+BruceEVIL/Brands/Carlsberg/WithForgotCredentials/index.html	Brands	Carlsberg
+BruceEVIL/Brands/Coca-Cola/index.html	Brands	Coca-Cola
+BruceEVIL/Brands/Coca-Cola/WithForgotCredentials/index.html	Brands	Coca-Cola
+BruceEVIL/Brands/Nike/index.html	Brands	Nike
+BruceEVIL/Brands/Nike/WithForgotCredentials/index.html	Brands	Nike
+BruceEVIL/Brands/Red Bull/index.html	Brands	Red Bull
+BruceEVIL/Brands/Red Bull/WithForgotCredentials/index.html	Brands	Red Bull
+BruceEVIL/Etc/AlaskaAirline.html	Etc	-
+BruceEVIL/Etc/Amazon.html	Etc	-
+BruceEVIL/Etc/american_airline.html	Etc	-
+BruceEVIL/Etc/apple.html	Etc	-
+BruceEVIL/Etc/at&t.html	Etc	-
+BruceEVIL/Etc/CoxWifi.html	Etc	-
+BruceEVIL/Etc/detla_airline.html	Etc	-
+BruceEVIL/Etc/Facebook.html	Etc	-
+BruceEVIL/Etc/Google_Mobile.html	Etc	-
+BruceEVIL/Etc/Google_Modern.html	Etc	-
+BruceEVIL/Etc/Jet_Blue.html	Etc	-
+BruceEVIL/Etc/Matrix.html	Etc	-
+BruceEVIL/Etc/Microsoft.html	Etc	-
+BruceEVIL/Etc/Microsoft365.html	Etc	-
+BruceEVIL/Etc/southwest_airline.html	Etc	-
+BruceEVIL/Etc/Spectrum.html	Etc	-
+BruceEVIL/Etc/SpiritAirlines.html	Etc	-
+BruceEVIL/Etc/Starlink.html	Etc	-
+BruceEVIL/Etc/T_Mobile.html	Etc	-
+BruceEVIL/Etc/Twitch.html	Etc	-
+BruceEVIL/Etc/Twitter.html	Etc	-
+BruceEVIL/Etc/united_airline.html	Etc	-
+BruceEVIL/Etc/Verizon.html	Etc	-
+BruceEVIL/Fast Foods & coffeeshops/KFC/index.html	Fast Foods & coffeeshops	KFC
+BruceEVIL/Fast Foods & coffeeshops/KFC/WithForgotCredentials/index.html	Fast Foods & coffeeshops	KFC
+BruceEVIL/Fast Foods & coffeeshops/McDonald's/index.html	Fast Foods & coffeeshops	McDonald's
+BruceEVIL/Fast Foods & coffeeshops/McDonald's/WithForgotCredentials/index.html	Fast Foods & coffeeshops	McDonald's
+BruceEVIL/Fast Foods & coffeeshops/Pizza Hut/index.html	Fast Foods & coffeeshops	Pizza Hut
+BruceEVIL/Fast Foods & coffeeshops/Pizza Hut/WithForgottenCredentials/index.html	Fast Foods & coffeeshops	Pizza Hut
+BruceEVIL/Fast Foods & coffeeshops/Quick/index.html	Fast Foods & coffeeshops	Quick
+BruceEVIL/Fast Foods & coffeeshops/Quick/WithForgotCredentials/index.html	Fast Foods & coffeeshops	Quick
+BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/index.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/starb.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/WithForgotCredentials/index.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Gyms/Anytime Fitness/index.html	Gyms	Anytime Fitness
+BruceEVIL/Gyms/Anytime Fitness/WithForgotCredentials/index.html	Gyms	Anytime Fitness
+BruceEVIL/Gyms/Basic-Fit/index.html	Gyms	Basic-Fit
+BruceEVIL/Gyms/Basic-Fit/WithForgotCredentials/index.html	Gyms	Basic-Fit
+BruceEVIL/Gyms/Fitness First/index.html	Gyms	Fitness First
+BruceEVIL/Gyms/Fitness First/WithForgotCredentials/index.html	Gyms	Fitness First
+BruceEVIL/Gyms/Holmes Place/index.html	Gyms	Holmes Place
+BruceEVIL/Gyms/Holmes Place/WithForgotCredentials/index.html	Gyms	Holmes Place
+BruceEVIL/Gyms/McFIT/index.html	Gyms	McFIT
+BruceEVIL/Gyms/McFIT/WithForgotCredentials/index.html	Gyms	McFIT
+BruceEVIL/Gyms/Neoness/index.html	Gyms	Neoness
+BruceEVIL/Gyms/Neoness/WithForgotCredentials/index.html	Gyms	Neoness
+BruceEVIL/Hotels/Best Western Hotels/index.html	Hotels	Best Western Hotels
+BruceEVIL/Hotels/Best Western Hotels/WithForgottenCredentials/index.html	Hotels	Best Western Hotels
+BruceEVIL/Hotels/Hilton/index.html	Hotels	Hilton
+BruceEVIL/Hotels/Hilton/WithForgotCredentials/index.html	Hotels	Hilton
+BruceEVIL/Hotels/Ibis Hotels/index.html	Hotels	Ibis Hotels
+BruceEVIL/Hotels/Ibis Hotels/WithForgotCredentials/index.html	Hotels	Ibis Hotels
+BruceEVIL/Hotels/Novotel/index.html	Hotels	Novotel
+BruceEVIL/Hotels/Novotel/WithForgotCredentials/index.html	Hotels	Novotel
+BruceEVIL/Hotels/Radisson/index.html	Hotels	Radisson
+BruceEVIL/Hotels/Radisson/WithForgotCredentials/index.html	Hotels	Radisson
+BruceEVIL/Hotels/Sheraton/index.html	Hotels	Sheraton
+BruceEVIL/Hotels/Sheraton/WithForgotCredentials/index.html	Hotels	Sheraton
+BruceEVIL/Internet Providers/British Telecom/index.html	Internet Providers	British Telecom
+BruceEVIL/Internet Providers/British Telecom/WithForgotCredentials/index.html	Internet Providers	British Telecom
+BruceEVIL/Internet Providers/Deutsche Telekom/GermanVersion/GermanVersionWithForgotCreds/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Deutsche Telekom/GermanVersion/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Deutsche Telekom/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Deutsche Telekom/WithForgotCredentials/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Nos/index.html	Internet Providers	Nos
+BruceEVIL/Internet Providers/Orange™/index.html	Internet Providers	Orange™
+BruceEVIL/Internet Providers/Orange™/WithForgotCredentials/index.html	Internet Providers	Orange™
+BruceEVIL/Internet Providers/Proximus/index.html	Internet Providers	Proximus
+BruceEVIL/Internet Providers/Proximus/WithForgotCredentials/index.html	Internet Providers	Proximus
+BruceEVIL/Internet Providers/Telefónica/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Telefónica/SpanishVersion/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Telefónica/SpanishVersion/SpanishVersionWithForgotCreds/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Telefónica/WithForgotCredentials/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Vodafone/index.html	Internet Providers	Vodafone
+BruceEVIL/Internet Providers/Vodafone/WithForgotCredentials/index.html	Internet Providers	Vodafone
+BruceEVIL/My work/message.html	My work	-
+BruceEVIL/My work/rickroll.html	My work	-
+BruceEVIL/ofters/audio_prank.html	ofters	-
+BruceEVIL/ofters/eljur&google.html	ofters	-
+BruceEVIL/ofters/eslschool.html	ofters	-
+BruceEVIL/ofters/google.html	ofters	-
+BruceEVIL/ofters/googlestoni.html	ofters	-
+BruceEVIL/ofters/instagram.html	ofters	-
+BruceEVIL/ofters/MailRuVKID.html	ofters	-
+BruceEVIL/ofters/MOS.html	ofters	-
+BruceEVIL/ofters/NewGoogle.html	ofters	-
+BruceEVIL/ofters/RUgoogle.html	ofters	-
+BruceEVIL/ofters/RuNewGoogle.html	ofters	-
+BruceEVIL/ofters/SCH239.html	ofters	-
+BruceEVIL/ofters/STON.html	ofters	-
+BruceEVIL/ofters/WiFiError.html	ofters	-
+BruceEVIL/ofters/Yandex2024.html	ofters	-
+BruceEVIL/Railway Companies/Deutsche Bahn/GermanVersion/GermanVersionWithForgotCreds/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/Deutsche Bahn/GermanVersion/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/Deutsche Bahn/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/Deutsche Bahn/WithForgotCredentials/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/National Rail (UK)/index.html	Railway Companies	National Rail (UK)
+BruceEVIL/Railway Companies/National Rail (UK)/WithForgotCredentials/index.html	Railway Companies	National Rail (UK)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/DutchVersion/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/DutchVersion/WithForgotCredentials/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/WithForgotCredentials/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/SpanishVersion/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/SpanishVersion/SpanishVersionWithForgotCreds/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/WithForgotCredentials/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/DutchVersion/DutchVersionWithForgotCreds/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/DutchVersion/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/FrenchVersion/FrenchVersionWithForgotCreds/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/FrenchVersion/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/WithForgotCredentials/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/FrenchVersion/FrenchVersionWithForgotCreds/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/FrenchVersion/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/WithForgotCredentials/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/Thalys/index.html	Railway Companies	Thalys
+BruceEVIL/Railway Companies/Thalys/WithForgotCredentials/index.html	Railway Companies	Thalys
+BruceEVIL/Supermarkets/Delhaize/index.html	Supermarkets	Delhaize
+BruceEVIL/Supermarkets/Delhaize/WithForgotCredentials/index.html	Supermarkets	Delhaize
+BruceEVIL/Supermarkets/IKEA/index.html	Supermarkets	IKEA
+BruceEVIL/Supermarkets/IKEA/WithForgotCredentials/index.html	Supermarkets	IKEA
+BruceEVIL/Supermarkets/Tesco/index.html	Supermarkets	Tesco
+BruceEVIL/Supermarkets/Tesco/WithForgotCredentials/index.html	Supermarkets	Tesco
+BruceEVIL/Theme Parks/Disneyland Paris/index.html	Theme Parks	Disneyland Paris
+BruceEVIL/Theme Parks/Disneyland Paris/WithForgotCredentials/index.html	Theme Parks	Disneyland Paris
+BruceEVIL/Theme Parks/Efteling/index.html	Theme Parks	Efteling
+BruceEVIL/Theme Parks/Efteling/WithForgotCredentials/index.html	Theme Parks	Efteling
+BruceEVIL/Theme Parks/Walibi/index.html	Theme Parks	Walibi
+BruceEVIL/Theme Parks/Walibi/WithForgotCredentials/index.html	Theme Parks	Walibi
+BruceEVIL/WiFi Routers/Apple AirPort/index.html	WiFi Routers	Apple AirPort
+BruceEVIL/WiFi Routers/D-Link/index.html	WiFi Routers	D-Link
+BruceEVIL/WiFi Routers/Linksys/index.html	WiFi Routers	Linksys
+BruceEVIL/WiFi Routers/NETGEAR/netgear.html	WiFi Routers	NETGEAR
+BruceEVIL/WiFi Routers/Tenda/index.html	WiFi Routers	Tenda
+BruceEVIL/WiFi Routers/TP-Link/tplink.html	WiFi Routers	TP-Link
+BruceEVIL/WiFi Routers/Ubiquiti-Unify/index.html	WiFi Routers	Ubiquiti-Unify

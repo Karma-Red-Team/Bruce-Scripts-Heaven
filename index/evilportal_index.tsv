@@ -1,166 +1,778 @@
 path	sector	brand
-BruceEVIL/Airlines/Air France/index.html	Airlines	Air France
-BruceEVIL/Airlines/Air France/WithForgotCredentials/index.html	Airlines	Air France
-BruceEVIL/Airlines/British Airways/index.html	Airlines	British Airways
-BruceEVIL/Airlines/British Airways/WithForgotCredentials/index.html	Airlines	British Airways
-BruceEVIL/Airlines/Brussels Airlines/index.html	Airlines	Brussels Airlines
-BruceEVIL/Airlines/Brussels Airlines/WithForgotCredentials/index.html	Airlines	Brussels Airlines
-BruceEVIL/Airlines/EasyJet/index.html	Airlines	EasyJet
-BruceEVIL/Airlines/EasyJet/WithForgotCredentials/index.html	Airlines	EasyJet
-BruceEVIL/Airlines/KLM/index.html	Airlines	KLM
-BruceEVIL/Airlines/KLM/WithForgotCredentials/index.html	Airlines	KLM
-BruceEVIL/Airlines/Lufthansa/index.html	Airlines	Lufthansa
-BruceEVIL/Airlines/Lufthansa/WithForgotCredentials/index.html	Airlines	Lufthansa
-BruceEVIL/Airlines/Ryanair/index.html	Airlines	Ryanair
-BruceEVIL/Airlines/Ryanair/WithForgotCredentials/index.html	Airlines	Ryanair
-BruceEVIL/Airlines/SwissAir/index.html	Airlines	SwissAir
-BruceEVIL/Airlines/SwissAir/WithForgotCredentials/index.html	Airlines	SwissAir
-BruceEVIL/Airlines/Turkish Airlines/index.html	Airlines	Turkish Airlines
-BruceEVIL/Airlines/Turkish Airlines/WithForgotCredentials/index.html	Airlines	Turkish Airlines
+BruceEVIL/Batcherss/Bruce/MIKROTIK-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/TP-LINK-Var2-OLD.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/NETIS-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/TENDA-Var2.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/TENDA-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/NETIS-Var2.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/TP-LINK-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/XIAOMI-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/MERCUSYS-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/ASUS-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/KEENETIC-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Bruce/HUAWEI-Var1.html	Batcherss	Bruce
+BruceEVIL/Batcherss/Marauder/MIKROTIK-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/TP-LINK-Var2-OLD.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/NETIS-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/TENDA-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/TP-LINK-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/XIAOMI-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/MERCUSYS-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/ASUS-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/KEENETIC-Var1.html	Batcherss	Marauder
+BruceEVIL/Batcherss/Marauder/HUAWEI-Var1.html	Batcherss	Marauder
+BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/index.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/starb.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/WithForgotCredentials/index.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Fast Foods & coffeeshops/Quick/index.html	Fast Foods & coffeeshops	Quick
+BruceEVIL/Fast Foods & coffeeshops/Quick/WithForgotCredentials/index.html	Fast Foods & coffeeshops	Quick
+BruceEVIL/Fast Foods & coffeeshops/KFC/index.html	Fast Foods & coffeeshops	KFC
+BruceEVIL/Fast Foods & coffeeshops/KFC/WithForgotCredentials/index.html	Fast Foods & coffeeshops	KFC
+BruceEVIL/Fast Foods & coffeeshops/Pizza Hut/index.html	Fast Foods & coffeeshops	Pizza Hut
+BruceEVIL/Fast Foods & coffeeshops/Pizza Hut/WithForgottenCredentials/index.html	Fast Foods & coffeeshops	Pizza Hut
+BruceEVIL/Fast Foods & coffeeshops/McDonald's/index.html	Fast Foods & coffeeshops	McDonald's
+BruceEVIL/Fast Foods & coffeeshops/McDonald's/WithForgotCredentials/index.html	Fast Foods & coffeeshops	McDonald's
+BruceEVIL/ofters/MOS.html	ofters	-
+BruceEVIL/ofters/SCH239.html	ofters	-
+BruceEVIL/ofters/google.html	ofters	-
+BruceEVIL/ofters/WiFiError.html	ofters	-
+BruceEVIL/ofters/STON.html	ofters	-
+BruceEVIL/ofters/RUgoogle.html	ofters	-
+BruceEVIL/ofters/googlestoni.html	ofters	-
+BruceEVIL/ofters/Yandex2024.html	ofters	-
+BruceEVIL/ofters/eslschool.html	ofters	-
+BruceEVIL/ofters/eljur&google.html	ofters	-
+BruceEVIL/ofters/instagram.html	ofters	-
+BruceEVIL/ofters/audio_prank.html	ofters	-
+BruceEVIL/ofters/MailRuVKID.html	ofters	-
+BruceEVIL/ofters/RuNewGoogle.html	ofters	-
+BruceEVIL/ofters/NewGoogle.html	ofters	-
+BruceEVIL/Theme Parks/Walibi/index.html	Theme Parks	Walibi
+BruceEVIL/Theme Parks/Walibi/WithForgotCredentials/index.html	Theme Parks	Walibi
+BruceEVIL/Theme Parks/Efteling/index.html	Theme Parks	Efteling
+BruceEVIL/Theme Parks/Efteling/WithForgotCredentials/index.html	Theme Parks	Efteling
+BruceEVIL/Theme Parks/Disneyland Paris/index.html	Theme Parks	Disneyland Paris
+BruceEVIL/Theme Parks/Disneyland Paris/WithForgotCredentials/index.html	Theme Parks	Disneyland Paris
+BruceEVIL/Hotels/Hilton/index.html	Hotels	Hilton
+BruceEVIL/Hotels/Hilton/WithForgotCredentials/index.html	Hotels	Hilton
+BruceEVIL/Hotels/Radisson/index.html	Hotels	Radisson
+BruceEVIL/Hotels/Radisson/WithForgotCredentials/index.html	Hotels	Radisson
+BruceEVIL/Hotels/Best Western Hotels/index.html	Hotels	Best Western Hotels
+BruceEVIL/Hotels/Best Western Hotels/WithForgottenCredentials/index.html	Hotels	Best Western Hotels
+BruceEVIL/Hotels/Novotel/index.html	Hotels	Novotel
+BruceEVIL/Hotels/Novotel/WithForgotCredentials/index.html	Hotels	Novotel
+BruceEVIL/Hotels/Sheraton/index.html	Hotels	Sheraton
+BruceEVIL/Hotels/Sheraton/WithForgotCredentials/index.html	Hotels	Sheraton
+BruceEVIL/Hotels/Ibis Hotels/index.html	Hotels	Ibis Hotels
+BruceEVIL/Hotels/Ibis Hotels/WithForgotCredentials/index.html	Hotels	Ibis Hotels
 BruceEVIL/Brands/Apple/index.html	Brands	Apple
 BruceEVIL/Brands/Apple/WithForgotCredentials/index.html	Brands	Apple
-BruceEVIL/Brands/Carlsberg/index.html	Brands	Carlsberg
-BruceEVIL/Brands/Carlsberg/WithForgotCredentials/index.html	Brands	Carlsberg
+BruceEVIL/Brands/Red Bull/index.html	Brands	Red Bull
+BruceEVIL/Brands/Red Bull/WithForgotCredentials/index.html	Brands	Red Bull
 BruceEVIL/Brands/Coca-Cola/index.html	Brands	Coca-Cola
 BruceEVIL/Brands/Coca-Cola/WithForgotCredentials/index.html	Brands	Coca-Cola
 BruceEVIL/Brands/Nike/index.html	Brands	Nike
 BruceEVIL/Brands/Nike/WithForgotCredentials/index.html	Brands	Nike
-BruceEVIL/Brands/Red Bull/index.html	Brands	Red Bull
-BruceEVIL/Brands/Red Bull/WithForgotCredentials/index.html	Brands	Red Bull
-BruceEVIL/Etc/AlaskaAirline.html	Etc	-
-BruceEVIL/Etc/Amazon.html	Etc	-
-BruceEVIL/Etc/american_airline.html	Etc	-
-BruceEVIL/Etc/apple.html	Etc	-
-BruceEVIL/Etc/at&t.html	Etc	-
-BruceEVIL/Etc/CoxWifi.html	Etc	-
-BruceEVIL/Etc/detla_airline.html	Etc	-
-BruceEVIL/Etc/Facebook.html	Etc	-
-BruceEVIL/Etc/Google_Mobile.html	Etc	-
-BruceEVIL/Etc/Google_Modern.html	Etc	-
-BruceEVIL/Etc/Jet_Blue.html	Etc	-
-BruceEVIL/Etc/Matrix.html	Etc	-
-BruceEVIL/Etc/Microsoft.html	Etc	-
-BruceEVIL/Etc/Microsoft365.html	Etc	-
+BruceEVIL/Brands/Carlsberg/index.html	Brands	Carlsberg
+BruceEVIL/Brands/Carlsberg/WithForgotCredentials/index.html	Brands	Carlsberg
+BruceEVIL/L-ubu-portals/portals/coffee-shop.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Railway-Companies_National-Rail-(UK)_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Fast-Foods---coffeeshops_Pizza-Hut_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_TP-Link.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_NETGEAR.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Theme-Parks_Walibi_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_Apple-AirPort.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Theme-Parks_Disneyland-Paris.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Airlines_Ryanair.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Hotels_Best-Western-Hotels_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Supermarkets_Tesco_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Theme-Parks_Efteling_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Theme-Parks_Efteling.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_Linksys.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_D-Link.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Airlines_British-Airways_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Theme-Parks_Walibi.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Railway-Companies_National-Rail-(UK).html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_Ubiquiti-Unify.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Hotels_Best-Western-Hotels.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Hotels_Hilton_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Airlines_Ryanair_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Theme-Parks_Disneyland-Paris_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Hotels_Hilton.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Fast-Foods---coffeeshops_Pizza-Hut.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Airlines_British-Airways.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/WiFi-Routers_Tenda.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Railway-Companies_Thalys.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Railway-Companies_Thalys_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Internet-Providers_British-Telecom_forgot.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Internet-Providers_British-Telecom.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/european/Supermarkets_Tesco.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/united_airline.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/southwest_airline.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/FakeHack.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/detla_airline.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Microsoft.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Matrix.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Starlink.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Better_Google_Mobile.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/att.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Prank_Game.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/T_Mobile.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Twitch.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Verizon.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/SpiritAirlines.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Amazon.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/FakeHack2.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/AlaskaAirline.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/american_airline.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Frequency.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/Jet_Blue.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/bigbrodude/apple.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/custom/HotelGuest.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/custom/CoffeeShop.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/custom/CafeWiFi.html	L-ubu-portals	portals
+BruceEVIL/L-ubu-portals/portals/custom/CorporateWiFi.html	L-ubu-portals	portals
+BruceEVIL/Etc/united_airline.html	Etc	-
 BruceEVIL/Etc/southwest_airline.html	Etc	-
-BruceEVIL/Etc/Spectrum.html	Etc	-
-BruceEVIL/Etc/SpiritAirlines.html	Etc	-
+BruceEVIL/Etc/Twitter.html	Etc	-
+BruceEVIL/Etc/detla_airline.html	Etc	-
+BruceEVIL/Etc/Microsoft365.html	Etc	-
+BruceEVIL/Etc/Microsoft.html	Etc	-
+BruceEVIL/Etc/Facebook.html	Etc	-
+BruceEVIL/Etc/Matrix.html	Etc	-
 BruceEVIL/Etc/Starlink.html	Etc	-
+BruceEVIL/Etc/Google_Mobile.html	Etc	-
+BruceEVIL/Etc/CoxWifi.html	Etc	-
+BruceEVIL/Etc/Spectrum.html	Etc	-
 BruceEVIL/Etc/T_Mobile.html	Etc	-
 BruceEVIL/Etc/Twitch.html	Etc	-
-BruceEVIL/Etc/Twitter.html	Etc	-
-BruceEVIL/Etc/united_airline.html	Etc	-
 BruceEVIL/Etc/Verizon.html	Etc	-
-BruceEVIL/Fast Foods & coffeeshops/KFC/index.html	Fast Foods & coffeeshops	KFC
-BruceEVIL/Fast Foods & coffeeshops/KFC/WithForgotCredentials/index.html	Fast Foods & coffeeshops	KFC
-BruceEVIL/Fast Foods & coffeeshops/McDonald's/index.html	Fast Foods & coffeeshops	McDonald's
-BruceEVIL/Fast Foods & coffeeshops/McDonald's/WithForgotCredentials/index.html	Fast Foods & coffeeshops	McDonald's
-BruceEVIL/Fast Foods & coffeeshops/Pizza Hut/index.html	Fast Foods & coffeeshops	Pizza Hut
-BruceEVIL/Fast Foods & coffeeshops/Pizza Hut/WithForgottenCredentials/index.html	Fast Foods & coffeeshops	Pizza Hut
-BruceEVIL/Fast Foods & coffeeshops/Quick/index.html	Fast Foods & coffeeshops	Quick
-BruceEVIL/Fast Foods & coffeeshops/Quick/WithForgotCredentials/index.html	Fast Foods & coffeeshops	Quick
-BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/index.html	Fast Foods & coffeeshops	Starbucks Coffee
-BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/starb.html	Fast Foods & coffeeshops	Starbucks Coffee
-BruceEVIL/Fast Foods & coffeeshops/Starbucks Coffee/WithForgotCredentials/index.html	Fast Foods & coffeeshops	Starbucks Coffee
+BruceEVIL/Etc/at&t.html	Etc	-
+BruceEVIL/Etc/SpiritAirlines.html	Etc	-
+BruceEVIL/Etc/Amazon.html	Etc	-
+BruceEVIL/Etc/Google_Modern.html	Etc	-
+BruceEVIL/Etc/AlaskaAirline.html	Etc	-
+BruceEVIL/Etc/american_airline.html	Etc	-
+BruceEVIL/Etc/Jet_Blue.html	Etc	-
+BruceEVIL/Etc/apple.html	Etc	-
+BruceEVIL/WiFi Routers/Apple AirPort/index.html	WiFi Routers	Apple AirPort
+BruceEVIL/WiFi Routers/Tenda/index.html	WiFi Routers	Tenda
+BruceEVIL/WiFi Routers/Ubiquiti-Unify/index.html	WiFi Routers	Ubiquiti-Unify
+BruceEVIL/WiFi Routers/NETGEAR/netgear.html	WiFi Routers	NETGEAR
+BruceEVIL/WiFi Routers/D-Link/index.html	WiFi Routers	D-Link
+BruceEVIL/WiFi Routers/TP-Link/tplink.html	WiFi Routers	TP-Link
+BruceEVIL/WiFi Routers/Linksys/index.html	WiFi Routers	Linksys
+BruceEVIL/Supermarkets/IKEA/index.html	Supermarkets	IKEA
+BruceEVIL/Supermarkets/IKEA/WithForgotCredentials/index.html	Supermarkets	IKEA
+BruceEVIL/Supermarkets/Delhaize/index.html	Supermarkets	Delhaize
+BruceEVIL/Supermarkets/Delhaize/WithForgotCredentials/index.html	Supermarkets	Delhaize
+BruceEVIL/Supermarkets/Tesco/index.html	Supermarkets	Tesco
+BruceEVIL/Supermarkets/Tesco/WithForgotCredentials/index.html	Supermarkets	Tesco
+BruceEVIL/My work/message.html	My work	-
+BruceEVIL/My work/rickroll.html	My work	-
+BruceEVIL/Borys/Evil Portals/FakeHack.html	Borys	Evil Portals
+BruceEVIL/Borys/Evil Portals/Better_google.html	Borys	Evil Portals
+BruceEVIL/Borys/Evil Portals/FunnyGame.html	Borys	Evil Portals
+BruceEVIL/Borys/Evil Portals/Facebook.html	Borys	Evil Portals
+BruceEVIL/Borys/Evil Portals/T-mobile.html	Borys	Evil Portals
+BruceEVIL/Borys/Evil Portals/Matix.html	Borys	Evil Portals
+BruceEVIL/Borys/Evil Portals/AppleID.html	Borys	Evil Portals
 BruceEVIL/Gyms/Anytime Fitness/index.html	Gyms	Anytime Fitness
 BruceEVIL/Gyms/Anytime Fitness/WithForgotCredentials/index.html	Gyms	Anytime Fitness
 BruceEVIL/Gyms/Basic-Fit/index.html	Gyms	Basic-Fit
 BruceEVIL/Gyms/Basic-Fit/WithForgotCredentials/index.html	Gyms	Basic-Fit
-BruceEVIL/Gyms/Fitness First/index.html	Gyms	Fitness First
-BruceEVIL/Gyms/Fitness First/WithForgotCredentials/index.html	Gyms	Fitness First
 BruceEVIL/Gyms/Holmes Place/index.html	Gyms	Holmes Place
 BruceEVIL/Gyms/Holmes Place/WithForgotCredentials/index.html	Gyms	Holmes Place
+BruceEVIL/Gyms/Fitness First/index.html	Gyms	Fitness First
+BruceEVIL/Gyms/Fitness First/WithForgotCredentials/index.html	Gyms	Fitness First
 BruceEVIL/Gyms/McFIT/index.html	Gyms	McFIT
 BruceEVIL/Gyms/McFIT/WithForgotCredentials/index.html	Gyms	McFIT
 BruceEVIL/Gyms/Neoness/index.html	Gyms	Neoness
 BruceEVIL/Gyms/Neoness/WithForgotCredentials/index.html	Gyms	Neoness
-BruceEVIL/Hotels/Best Western Hotels/index.html	Hotels	Best Western Hotels
-BruceEVIL/Hotels/Best Western Hotels/WithForgottenCredentials/index.html	Hotels	Best Western Hotels
-BruceEVIL/Hotels/Hilton/index.html	Hotels	Hilton
-BruceEVIL/Hotels/Hilton/WithForgotCredentials/index.html	Hotels	Hilton
-BruceEVIL/Hotels/Ibis Hotels/index.html	Hotels	Ibis Hotels
-BruceEVIL/Hotels/Ibis Hotels/WithForgotCredentials/index.html	Hotels	Ibis Hotels
-BruceEVIL/Hotels/Novotel/index.html	Hotels	Novotel
-BruceEVIL/Hotels/Novotel/WithForgotCredentials/index.html	Hotels	Novotel
-BruceEVIL/Hotels/Radisson/index.html	Hotels	Radisson
-BruceEVIL/Hotels/Radisson/WithForgotCredentials/index.html	Hotels	Radisson
-BruceEVIL/Hotels/Sheraton/index.html	Hotels	Sheraton
-BruceEVIL/Hotels/Sheraton/WithForgotCredentials/index.html	Hotels	Sheraton
-BruceEVIL/Internet Providers/British Telecom/index.html	Internet Providers	British Telecom
-BruceEVIL/Internet Providers/British Telecom/WithForgotCredentials/index.html	Internet Providers	British Telecom
-BruceEVIL/Internet Providers/Deutsche Telekom/GermanVersion/GermanVersionWithForgotCreds/index.html	Internet Providers	Deutsche Telekom
-BruceEVIL/Internet Providers/Deutsche Telekom/GermanVersion/index.html	Internet Providers	Deutsche Telekom
-BruceEVIL/Internet Providers/Deutsche Telekom/index.html	Internet Providers	Deutsche Telekom
-BruceEVIL/Internet Providers/Deutsche Telekom/WithForgotCredentials/index.html	Internet Providers	Deutsche Telekom
-BruceEVIL/Internet Providers/Nos/index.html	Internet Providers	Nos
-BruceEVIL/Internet Providers/Orange™/index.html	Internet Providers	Orange™
-BruceEVIL/Internet Providers/Orange™/WithForgotCredentials/index.html	Internet Providers	Orange™
-BruceEVIL/Internet Providers/Proximus/index.html	Internet Providers	Proximus
-BruceEVIL/Internet Providers/Proximus/WithForgotCredentials/index.html	Internet Providers	Proximus
-BruceEVIL/Internet Providers/Telefónica/index.html	Internet Providers	Telefónica
-BruceEVIL/Internet Providers/Telefónica/SpanishVersion/index.html	Internet Providers	Telefónica
-BruceEVIL/Internet Providers/Telefónica/SpanishVersion/SpanishVersionWithForgotCreds/index.html	Internet Providers	Telefónica
-BruceEVIL/Internet Providers/Telefónica/WithForgotCredentials/index.html	Internet Providers	Telefónica
-BruceEVIL/Internet Providers/Vodafone/index.html	Internet Providers	Vodafone
-BruceEVIL/Internet Providers/Vodafone/WithForgotCredentials/index.html	Internet Providers	Vodafone
-BruceEVIL/My work/message.html	My work	-
-BruceEVIL/My work/rickroll.html	My work	-
-BruceEVIL/ofters/audio_prank.html	ofters	-
-BruceEVIL/ofters/eljur&google.html	ofters	-
-BruceEVIL/ofters/eslschool.html	ofters	-
-BruceEVIL/ofters/google.html	ofters	-
-BruceEVIL/ofters/googlestoni.html	ofters	-
-BruceEVIL/ofters/instagram.html	ofters	-
-BruceEVIL/ofters/MailRuVKID.html	ofters	-
-BruceEVIL/ofters/MOS.html	ofters	-
-BruceEVIL/ofters/NewGoogle.html	ofters	-
-BruceEVIL/ofters/RUgoogle.html	ofters	-
-BruceEVIL/ofters/RuNewGoogle.html	ofters	-
-BruceEVIL/ofters/SCH239.html	ofters	-
-BruceEVIL/ofters/STON.html	ofters	-
-BruceEVIL/ofters/WiFiError.html	ofters	-
-BruceEVIL/ofters/Yandex2024.html	ofters	-
-BruceEVIL/Railway Companies/Deutsche Bahn/GermanVersion/GermanVersionWithForgotCreds/index.html	Railway Companies	Deutsche Bahn
-BruceEVIL/Railway Companies/Deutsche Bahn/GermanVersion/index.html	Railway Companies	Deutsche Bahn
-BruceEVIL/Railway Companies/Deutsche Bahn/index.html	Railway Companies	Deutsche Bahn
-BruceEVIL/Railway Companies/Deutsche Bahn/WithForgotCredentials/index.html	Railway Companies	Deutsche Bahn
-BruceEVIL/Railway Companies/National Rail (UK)/index.html	Railway Companies	National Rail (UK)
-BruceEVIL/Railway Companies/National Rail (UK)/WithForgotCredentials/index.html	Railway Companies	National Rail (UK)
-BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/DutchVersion/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
-BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/DutchVersion/WithForgotCredentials/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
-BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
-BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/WithForgotCredentials/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
-BruceEVIL/Railway Companies/renfe (Spanish Rail)/index.html	Railway Companies	renfe (Spanish Rail)
-BruceEVIL/Railway Companies/renfe (Spanish Rail)/SpanishVersion/index.html	Railway Companies	renfe (Spanish Rail)
-BruceEVIL/Railway Companies/renfe (Spanish Rail)/SpanishVersion/SpanishVersionWithForgotCreds/index.html	Railway Companies	renfe (Spanish Rail)
-BruceEVIL/Railway Companies/renfe (Spanish Rail)/WithForgotCredentials/index.html	Railway Companies	renfe (Spanish Rail)
-BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/DutchVersion/DutchVersionWithForgotCreds/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
-BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/DutchVersion/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
-BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/FrenchVersion/FrenchVersionWithForgotCreds/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
-BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/FrenchVersion/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/official-sdfiles/pt-br/google.html	official-sdfiles	pt-br
+BruceEVIL/official-sdfiles/pt-br/microsoft.html	official-sdfiles	pt-br
+BruceEVIL/official-sdfiles/pt-br/facebook.html	official-sdfiles	pt-br
+BruceEVIL/official-sdfiles/pt-br/router_update.html	official-sdfiles	pt-br
+BruceEVIL/official-sdfiles/pt-br/instagram.html	official-sdfiles	pt-br
+BruceEVIL/official-sdfiles/en/google.html	official-sdfiles	en
+BruceEVIL/official-sdfiles/en/microsoft.html	official-sdfiles	en
+BruceEVIL/official-sdfiles/en/facebook.html	official-sdfiles	en
+BruceEVIL/official-sdfiles/en/router_update.html	official-sdfiles	en
+BruceEVIL/official-sdfiles/en/instagram.html	official-sdfiles	en
+BruceEVIL/Rians-portals/Uncommon Hotels/home2-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/cambria-hotels.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/four-points.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/knights-inn.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/howard-johnson.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/gaylord-hotels.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/canopy-hilton.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/residence-inn.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/westin-resort.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/ac-hotels-2.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/dolce-hotels.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/w-escape.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/trademark-wyndham.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/tapestry-ind.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/woodspring-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/motto-city.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/intown-suites-2.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/staybridge-suites-2.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/travelodge.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/quality-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/six-continents.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/stoney-creek.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/rodeway-inn.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/townplace-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/springhill-suites-2.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/mainstaay-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/even-hotels.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/sonesta-es.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/spark-hilton.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/wyndham-garden.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/baymont.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/wingate.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/tru-hilton.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/curio-boutique.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/ascend-collection.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/autograph-ind.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/protea-hotels.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/sheraton-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/homewood-suites.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/wyndham-grand.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/clarion.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/loews-regency.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/tryp-wyndham.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/microtel.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/clarion-pointe.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/omni-royal.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Uncommon Hotels/suburban-extended.html	Rians-portals	Uncommon Hotels
+BruceEVIL/Rians-portals/Coffee Shops/coffee-7brew.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-peets.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-black-rock.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-copper-common.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-dunkin.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-starbucks.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-dutch-bros.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-biggby.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-tim-hortons.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-scooters.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-caribou.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-coffee-bean.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-einstein-bros.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-human-bean.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Coffee Shops/coffee-panera.html	Rians-portals	Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-gloria-jeans.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-7brew.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-verve.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-corner-bakery.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-philz.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-peets.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-black-rock.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-second-cup.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-daily-grind.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-cbtl.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-dunkin.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-bluestone.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-ziggis.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-starbucks.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-einstein.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-joe.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-dutch-bros.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-biggby.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-bravery.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-tim-hortons.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-scooters.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-caffe-nero.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-grind-haus.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-caribou.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-rush.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-intelligentsia.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-human-bean.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-panera.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-colectivo.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Advanced Coffee Shops/coffee-paris-baguette.html	Rians-portals	Advanced Coffee Shops
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-verizon.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-starbucks.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-whole-foods.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-mcdonalds.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-home-depot.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-cheesecake-factory.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-taco-bell.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-ihop.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-apple-store.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-chipotle.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-peets.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-waffle-house.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-subway.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-applebees.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-bank-of-america.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-tim-hortons.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-chase.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-wendys.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-hyatt.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-rei.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-texas-roadhouse.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-lowes.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-hilton.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-barnes-noble.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-planet-fitness.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-walmart.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-walgreens.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-panera.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-la-fitness.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-costco.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-chick-fil-a.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-caribou.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-cvs.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-tmobile.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-ikea.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-burger-king.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-cracker-barrel.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-nordstrom.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-dutch-bros.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-best-buy.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-equinox.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-denny.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-olive-garden.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-amtrak.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-target.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-bww.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-att.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-gamestop.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-kfc.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/Non-Specific, More Advanced Captive Portals/loc-marriott.html	Rians-portals	Non-Specific, More Advanced Captive Portals
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-fsd.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-jfk.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-sfo.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-las.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-abq.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-dtw.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-dca.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-aus.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-iah.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-mia.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-mco.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-iad.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-atl.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-oma.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-kci.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-san.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-msy.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-lga.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-clt.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-rdu.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-mdw.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-ewr.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-stl.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-lax.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-bwi.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-pdx.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-phx.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-anc.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-cmh.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-dfw.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-ind.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-fwa.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-hnl.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-lnk.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-sea.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-ord.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-elp.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-sat.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-phl.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-slc.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-pit.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-hou.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-okc.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-lbb.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-den.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-mem.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-bos.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-bna.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-msp.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/City Airports (none airline specific)/ap-tul.html	Rians-portals	City Airports (none airline specific)
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/walmart.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/burgerking.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/delta-lounge.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/subway.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/dunkin.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/dennys.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/ikea.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/tmobile.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/petsmart.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/ulta.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/cvs.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/chick-fil-a.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/panda-express.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/barnes-noble.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/bestbuy.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/hotel.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/hilton.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/chipotle.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/wendys.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/walgreens.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/library.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/kfc.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/olive-garden.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/att.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/pizza-hut.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/lowes.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/sephora.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/whole-foods.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/marriott.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/homedepot.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/sonic.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/popeyes.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/costco.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/sams-club.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/verizon.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/five-guys.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/nwu-real_1.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/planet-fitness.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/generic-guest.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/panera.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/la-fitness.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/amc.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/nwu.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/ihop.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/enterprise.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/taco-bell.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/xfinity.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/applebees.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/target.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/starbucks.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/dominos.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/buffalo-wild-wings.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Non-specific  Captive Portals/airport.html	Rians-portals	Non-specific  Captive Portals
+BruceEVIL/Rians-portals/Advanced Airlines/airline-avianca.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-american.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-cathay.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-jetblue.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-jal.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-norwegian.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-air-canada.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-aeroflot.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-klm.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-delta.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-lufthansa.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-republic.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-frontier.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-porter.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-turkish.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-envoy.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-qatar.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-aerlingus.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-singapore.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-easyjet.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-ana.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-air-france.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-alaska.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-etihad.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-cape-air.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-sun-country.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-wizz.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-southwest.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-silver.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-aeromexico.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-allegiant.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-ryanair.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-aa-international.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-air-transat.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-westjet.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-austrian.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-skywest.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-spirit.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-breeze.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-volaris.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-hawaiian.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-tap.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-swiss.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-united.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-finnair.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-british-airways.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-copa.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-virgin-atlantic.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-iberia.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Advanced Airlines/airline-emirates.html	Rians-portals	Advanced Airlines
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-shopping-mall.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-university.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-luxury-hotel.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-retail-store.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-coworking.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-resort.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-spa.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-medical.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-sports-arena.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-brewery.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-gym.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-casino.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-boutique-hotel.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-bookstore.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-bar-lounge.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-convention-center.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-food-court.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-airport.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-coffee-shop.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Generic Captive Portals/generic-restaurant.html	Rians-portals	Generic Captive Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/pizza-ranch.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/red-lobster.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/captain-ds.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/round-table-pizza.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/california-pizza-kitchen.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/another-broken-egg.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/el-torito.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/mellow-mushroom.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/schlotzskys.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/dickeys-bbq.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/black-bear-diner.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/baja-fresh.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/teriyaki-madness.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/sonnys-bbq.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/tijuana-flats.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/del-frisco.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/famous-daves.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/cheddars.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/old-chicago.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/cook-out.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/steak-shake.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/the-egg-and-i.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/chuys.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/in-n-out.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/habit-burger.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/freebirds.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/hibachi-grill.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/rubios.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/mission-bbq.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/wayback-burgers.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/penn-station-subs.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/huddle-house.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/mooyah.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/wild-eggs.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/pei-wei.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/firehouse-subs.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/quiznos.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/smashburger.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/jim-n-nicks-bbq.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/freddys.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/bubba-gump.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/godfather-pizza.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/charleys-subs.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/eggs-up-grill.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/torchys-tacos.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/village-inn.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/on-the-border.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/portillos.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/joes-crab-shack.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/pizzeria-uno.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Restaurant Captive  Portals/genghis-grill.html	Rians-portals	Restaurant Captive  Portals
+BruceEVIL/Rians-portals/Advanced Banks/bank-generic-d.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-citizens.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-mt-bank.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-comerica.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-usaa.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-atlantic-union.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-frost.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-sofi.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-wells-fargo.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-generic-e.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-regions.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-ameriprise.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-truist.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-generic-b.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-fnb.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-pnc.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-penfed.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-bmo.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-keybank.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-ally.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-bofa.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-generic-c.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-zions.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-santander.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-banner.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-svb.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-td-bank.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-synchrony.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-heartland.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-citibank.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-capital-one.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-generic-a.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-us-bank.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-raymond-james.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-bokf.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-edward-jones.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-hsbc.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-navy-federal.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-schwab.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-fifth-third.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-marcus.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-huntington.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-popular.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-umpqua.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-fidelity.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-commerce.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-east-west.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-chase.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-glacier.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Advanced Banks/bank-discover.html	Rians-portals	Advanced Banks
+BruceEVIL/Rians-portals/Popular Hotels/disney-boardwalk.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/new-york-new-york-lv.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/wynn-las-vegas.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-animal-kingdom.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-grand-floridian.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/sofitel-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/caesars-palace.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/paris-las-vegas.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/pullman-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/cosmopolitan-lv.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/park-plaza.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/hard-rock-universal.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-art-animation.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/riu-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-pop-century.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-contemporary.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/banyan-tree.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/loews-royal-pacific.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/grand-mercure.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/mgm-grand.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/iberostar-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/fairmont-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/planet-hollywood-lv.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/orient-express-hotel.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/club-med.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/radisson-red.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/palazzo-hotel.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/beaches-resorts.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/venetian-hotel.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/ibis-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/hard-rock-hotel.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/novotel-hotels.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/swissotel.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/sandals-resorts.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/aria-resort.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/dreams-resorts.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-wilderness.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/mandalay-bay.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/country-inn-suites.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/encore-wynn.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/mgallery.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/loews-portofino.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/atlantis-bahamas.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/luxor-las-vegas.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/radisson-blu.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/bellagio.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/park-inn-radisson.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/vdara-hotel.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/loews-sapphire-falls.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Popular Hotels/disney-yacht-club.html	Rians-portals	Popular Hotels
+BruceEVIL/Rians-portals/Airports/airline-air-india.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-american-eagle.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-eva-air.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-avianca.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-american.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-singapore-airlines.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-indigo.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-jetblue.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-air-canada.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-klm.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-avelo.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-virgin-australia.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-delta.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-lufthansa.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-copa-airlines.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-frontier.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-porter.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-korean-air.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-japan-airlines.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-cathay-pacific.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-ana.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-air-france.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-tap-portugal.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-alaska.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-etihad.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-sun-country.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-qatar-airways.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-southwest.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-allegiant.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-aer-lingus.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-latam.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-turkish-airlines.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-air-transat.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-westjet.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-skywest.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-spirit.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-interjet.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-breeze.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-hawaiian.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-air-new-zealand.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-thai-airways.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-swiss.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-qantas.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-united.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-scandinavian.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-finnair.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-british-airways.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-virgin-atlantic.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-iberia.html	Rians-portals	Airports
+BruceEVIL/Rians-portals/Airports/airline-emirates.html	Rians-portals	Airports
 BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
 BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/WithForgotCredentials/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
-BruceEVIL/Railway Companies/SNCF (French Rail)/FrenchVersion/FrenchVersionWithForgotCreds/index.html	Railway Companies	SNCF (French Rail)
-BruceEVIL/Railway Companies/SNCF (French Rail)/FrenchVersion/index.html	Railway Companies	SNCF (French Rail)
-BruceEVIL/Railway Companies/SNCF (French Rail)/index.html	Railway Companies	SNCF (French Rail)
-BruceEVIL/Railway Companies/SNCF (French Rail)/WithForgotCredentials/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/DutchVersion/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/DutchVersion/DutchVersionWithForgotCreds/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/FrenchVersion/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/SNCB-NMBS (Belgian Rail)/FrenchVersion/FrenchVersionWithForgotCreds/index.html	Railway Companies	SNCB-NMBS (Belgian Rail)
+BruceEVIL/Railway Companies/National Rail (UK)/index.html	Railway Companies	National Rail (UK)
+BruceEVIL/Railway Companies/National Rail (UK)/WithForgotCredentials/index.html	Railway Companies	National Rail (UK)
 BruceEVIL/Railway Companies/Thalys/index.html	Railway Companies	Thalys
 BruceEVIL/Railway Companies/Thalys/WithForgotCredentials/index.html	Railway Companies	Thalys
-BruceEVIL/Supermarkets/Delhaize/index.html	Supermarkets	Delhaize
-BruceEVIL/Supermarkets/Delhaize/WithForgotCredentials/index.html	Supermarkets	Delhaize
-BruceEVIL/Supermarkets/IKEA/index.html	Supermarkets	IKEA
-BruceEVIL/Supermarkets/IKEA/WithForgotCredentials/index.html	Supermarkets	IKEA
-BruceEVIL/Supermarkets/Tesco/index.html	Supermarkets	Tesco
-BruceEVIL/Supermarkets/Tesco/WithForgotCredentials/index.html	Supermarkets	Tesco
-BruceEVIL/Theme Parks/Disneyland Paris/index.html	Theme Parks	Disneyland Paris
-BruceEVIL/Theme Parks/Disneyland Paris/WithForgotCredentials/index.html	Theme Parks	Disneyland Paris
-BruceEVIL/Theme Parks/Efteling/index.html	Theme Parks	Efteling
-BruceEVIL/Theme Parks/Efteling/WithForgotCredentials/index.html	Theme Parks	Efteling
-BruceEVIL/Theme Parks/Walibi/index.html	Theme Parks	Walibi
-BruceEVIL/Theme Parks/Walibi/WithForgotCredentials/index.html	Theme Parks	Walibi
-BruceEVIL/WiFi Routers/Apple AirPort/index.html	WiFi Routers	Apple AirPort
-BruceEVIL/WiFi Routers/D-Link/index.html	WiFi Routers	D-Link
-BruceEVIL/WiFi Routers/Linksys/index.html	WiFi Routers	Linksys
-BruceEVIL/WiFi Routers/NETGEAR/netgear.html	WiFi Routers	NETGEAR
-BruceEVIL/WiFi Routers/Tenda/index.html	WiFi Routers	Tenda
-BruceEVIL/WiFi Routers/TP-Link/tplink.html	WiFi Routers	TP-Link
-BruceEVIL/WiFi Routers/Ubiquiti-Unify/index.html	WiFi Routers	Ubiquiti-Unify
+BruceEVIL/Railway Companies/Deutsche Bahn/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/Deutsche Bahn/WithForgotCredentials/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/Deutsche Bahn/GermanVersion/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/Deutsche Bahn/GermanVersion/GermanVersionWithForgotCreds/index.html	Railway Companies	Deutsche Bahn
+BruceEVIL/Railway Companies/SNCF (French Rail)/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/WithForgotCredentials/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/FrenchVersion/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/SNCF (French Rail)/FrenchVersion/FrenchVersionWithForgotCreds/index.html	Railway Companies	SNCF (French Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/WithForgotCredentials/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/SpanishVersion/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/renfe (Spanish Rail)/SpanishVersion/SpanishVersionWithForgotCreds/index.html	Railway Companies	renfe (Spanish Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/WithForgotCredentials/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/DutchVersion/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Railway Companies/Nederlandse Spoorwegen (Dutch Rail)/DutchVersion/WithForgotCredentials/index.html	Railway Companies	Nederlandse Spoorwegen (Dutch Rail)
+BruceEVIL/Internet Providers/Proximus/index.html	Internet Providers	Proximus
+BruceEVIL/Internet Providers/Proximus/WithForgotCredentials/index.html	Internet Providers	Proximus
+BruceEVIL/Internet Providers/British Telecom/index.html	Internet Providers	British Telecom
+BruceEVIL/Internet Providers/British Telecom/WithForgotCredentials/index.html	Internet Providers	British Telecom
+BruceEVIL/Internet Providers/Nos/index.html	Internet Providers	Nos
+BruceEVIL/Internet Providers/Telefónica/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Telefónica/WithForgotCredentials/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Telefónica/SpanishVersion/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Telefónica/SpanishVersion/SpanishVersionWithForgotCreds/index.html	Internet Providers	Telefónica
+BruceEVIL/Internet Providers/Orange™/index.html	Internet Providers	Orange™
+BruceEVIL/Internet Providers/Orange™/WithForgotCredentials/index.html	Internet Providers	Orange™
+BruceEVIL/Internet Providers/Deutsche Telekom/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Deutsche Telekom/WithForgotCredentials/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Deutsche Telekom/GermanVersion/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Deutsche Telekom/GermanVersion/GermanVersionWithForgotCreds/index.html	Internet Providers	Deutsche Telekom
+BruceEVIL/Internet Providers/Vodafone/index.html	Internet Providers	Vodafone
+BruceEVIL/Internet Providers/Vodafone/WithForgotCredentials/index.html	Internet Providers	Vodafone
+BruceEVIL/Airlines/Ryanair/index.html	Airlines	Ryanair
+BruceEVIL/Airlines/Ryanair/WithForgotCredentials/index.html	Airlines	Ryanair
+BruceEVIL/Airlines/British Airways/index.html	Airlines	British Airways
+BruceEVIL/Airlines/British Airways/WithForgotCredentials/index.html	Airlines	British Airways
+BruceEVIL/Airlines/SwissAir/index.html	Airlines	SwissAir
+BruceEVIL/Airlines/SwissAir/WithForgotCredentials/index.html	Airlines	SwissAir
+BruceEVIL/Airlines/KLM/index.html	Airlines	KLM
+BruceEVIL/Airlines/KLM/WithForgotCredentials/index.html	Airlines	KLM
+BruceEVIL/Airlines/Turkish Airlines/index.html	Airlines	Turkish Airlines
+BruceEVIL/Airlines/Turkish Airlines/WithForgotCredentials/index.html	Airlines	Turkish Airlines
+BruceEVIL/Airlines/Air France/index.html	Airlines	Air France
+BruceEVIL/Airlines/Air France/WithForgotCredentials/index.html	Airlines	Air France
+BruceEVIL/Airlines/Lufthansa/index.html	Airlines	Lufthansa
+BruceEVIL/Airlines/Lufthansa/WithForgotCredentials/index.html	Airlines	Lufthansa
+BruceEVIL/Airlines/EasyJet/index.html	Airlines	EasyJet
+BruceEVIL/Airlines/EasyJet/WithForgotCredentials/index.html	Airlines	EasyJet
+BruceEVIL/Airlines/Brussels Airlines/index.html	Airlines	Brussels Airlines
+BruceEVIL/Airlines/Brussels Airlines/WithForgotCredentials/index.html	Airlines	Brussels Airlines

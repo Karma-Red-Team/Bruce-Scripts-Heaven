@@ -1,6 +1,6 @@
 # Bruce Scripts — Master Index
 
-Exhaustive, searchable index of every asset in this repository (**50,778 files**).
+Exhaustive, searchable index of every asset in this repository (**53,050 files**).
 Read alongside **[SUMMARY.md](SUMMARY.md)** (what each category is) and
 **[DOCUMENTATION.md](DOCUMENTATION.md)** (file formats & complex scripts).
 
@@ -26,12 +26,12 @@ open in a spreadsheet). See [How to search](#how-to-search) for recipes.
 
 | Category | Files | What you're navigating | Grouping key | Detail |
 |---|---:|---|---|---|
-| [BruceIR](BruceIR/) | 21,211 | IR remote signals | device family / brand | [↓](#bruceir--infrared) |
-| [BruceRF](BruceRF/) | 19,014 | Sub-GHz captures & attack files | target function | [↓](#brucerf--sub-ghz) |
-| [BruceBAD](BruceBAD/) | ~6,960 | HID/BadUSB payloads (~499 kits) | collection / attack function | [↓](#brucebad--badusb) |
-| [BruceRFID](BruceRFID/) | 2,703 | RFID/NFC tag dumps | chip type / use | [↓](#brucerfid--rfidnfc) |
-| [wordlists](wordlists/) | ~285 | dictionaries | purpose | [↓](#wordlists--misc) |
-| [BruceEVIL](BruceEVIL/) | 165 | captive-portal pages | sector / brand | [↓](#bruceevil--evil-portals) |
+| [BruceIR](BruceIR/) | 21,315 | IR remote signals | device family / brand | [↓](#bruceir--infrared) |
+| [BruceRF](BruceRF/) | 19,352 | Sub-GHz captures & attack files | target function | [↓](#brucerf--sub-ghz) |
+| [BruceBAD](BruceBAD/) | ~7,425 | HID/BadUSB payloads (~506 kits) | collection / attack function | [↓](#brucebad--badusb) |
+| [BruceRFID](BruceRFID/) | 3,574 | RFID/NFC tag dumps | chip type / use | [↓](#brucerfid--rfidnfc) |
+| [wordlists](wordlists/) | ~288 | dictionaries | purpose | [↓](#wordlists--misc) |
+| [BruceEVIL](BruceEVIL/) | 901 | captive-portal pages | sector / brand | [↓](#bruceevil--evil-portals) |
 | [BruceIBTN](BruceIBTN/) | 125 | iButton keys | protocol | [↓](#bruceibtn--ibutton) |
 | [BruceWebUI](BruceWebUI/) | 1 | web-UI theme | — | — |
 
@@ -40,6 +40,17 @@ transmitting or plugging anything in.
 
 ---
 
+## Recent additions (Karma consolidation)
+
+New folders added and deduplicated across two waves. Regenerate the `index/` TSVs after any change.
+
+- **BruceJS/** (32) — on-device JS: `collection-browser.js` (guided catalog) + `apps/` (koua29, badgib, Jiggyv3 tools) + `interpreter-official/`.
+- **BruceBAD/** +7 sets — `my-flipper-shits`, `hak5-official`, `nullsec` (Cloud/DevOps), `keyboard-layouts` (non-US), `pwnKit`/`V3sth4cks153` (CVE), `BlueDucky`.
+- **BruceRF/** — `Automotive/` (car fobs, rolling-code), `Pyrotechnic-QuantumFire/` (pyro .sub), `Zero-Sploit-DB/`.
+- **BruceRFID/** — `toys-to-life/` (Skylanders/Disney Infinity ~782 .nfc), `hotel-keys/`, `mf_classic_dict/` (extended), **`Picopass/`** (iCLASS archive — hardware-ready, firmware pending; usable on Flipper/Proxmark).
+- **BruceEVIL/** — `Rians-portals/` (~516), `L-ubu-portals/`, `Batcherss/`, `Borys/`, `official-sdfiles/`.
+- **wordlists/** — `ssid_list_bruce.txt` (15,002 SSIDs for beacon-spam).
+
 ## The searchable indexes
 
 Generated tab-separated files in [`index/`](index/). One row per file, with metadata pulled from each
@@ -47,21 +58,21 @@ file's header. Open in Excel/Numbers (import as TSV) or `grep`/`awk` them.
 
 | File | Rows | Columns |
 |---|---:|---|
-| [`index/all_files.tsv`](index/all_files.tsv) | 50,778 | `path · category · ext · bytes` — **every file in the repo** |
-| [`index/rf_index.tsv`](index/rf_index.tsv) | 19,014 | `path · category · name · frequency_hz · preset · protocol` |
+| [`index/all_files.tsv`](index/all_files.tsv) | 53,050 | `path · category · ext · bytes` — **every file in the repo** |
+| [`index/rf_index.tsv`](index/rf_index.tsv) | 19,212 | `path · category · name · frequency_hz · preset · protocol` |
 | [`index/ir_index.tsv`](index/ir_index.tsv) | 21,211 | `path · category · subgroup · name · buttons` |
-| [`index/nfc_rfid_index.tsv`](index/nfc_rfid_index.tsv) | 2,703 | `path · category · name · device_type · uid` |
+| [`index/nfc_rfid_index.tsv`](index/nfc_rfid_index.tsv) | 3,524 | `path · category · name · device_type · uid` |
 | [`index/ibutton_index.tsv`](index/ibutton_index.tsv) | 125 | `path · category · name · protocol` |
-| [`index/badusb_payloads.tsv`](index/badusb_payloads.tsv) | 499 | `folder · files · txt · ps1 · py · sh · bat · js · c` (per payload folder) |
-| [`index/badusb_files.tsv`](index/badusb_files.tsv) | 5,499 | `path · top_folder · ext · bytes` (per script file) |
-| [`index/evilportal_index.tsv`](index/evilportal_index.tsv) | 165 | `path · sector · brand` |
+| [`index/badusb_payloads.tsv`](index/badusb_payloads.tsv) | 506 | `folder · files · txt · ps1 · py · sh · bat · js · c` (per payload folder) |
+| [`index/badusb_files.tsv`](index/badusb_files.tsv) | 5,605 | `path · top_folder · ext · bytes` (per script file) |
+| [`index/evilportal_index.tsv`](index/evilportal_index.tsv) | 777 | `path · sector · brand` |
 
 To regenerate them after adding files, see [How to search → rebuilding](#rebuilding-the-indexes).
 
 ---
 
 ## BruceRF — Sub-GHz
-[`BruceRF/`](BruceRF/) · 19,014 files · index: [`rf_index.tsv`](index/rf_index.tsv)
+[`BruceRF/`](BruceRF/) · 19,352 files · index: [`rf_index.tsv`](index/rf_index.tsv)
 
 **Bands present:** 433 MHz (~11,000 files, the bulk), 868 MHz (~870), 315 MHz (~650), 303 MHz (~650),
 plus 300/310/390/915 MHz pockets. **Protocols:** mostly `RAW` (16,653), then `Princeton` (687),
@@ -164,7 +175,7 @@ Two mega-dumps dominate; the rest is hand-sorted by device family.
 ---
 
 ## BruceRFID — RFID/NFC
-[`BruceRFID/`](BruceRFID/) · 2,703 files · index: [`nfc_rfid_index.tsv`](index/nfc_rfid_index.tsv)
+[`BruceRFID/`](BruceRFID/) · 3,574 files · index: [`nfc_rfid_index.tsv`](index/nfc_rfid_index.tsv)
 
 **Chip types:** NTAG215 (~2,480 — mostly Amiibo), SLIX (108), NTAG213 (66), NTAG216, plus a few
 Mifare Classic/Ultralight and bank-card UIDs.
@@ -191,7 +202,7 @@ Format in [DOCUMENTATION.md §6](DOCUMENTATION.md#6-ibutton-bruceibtn).
 ---
 
 ## BruceBAD — BadUSB
-[`BruceBAD/`](BruceBAD/) · ~6,960 files across **499 payload folders** ·
+[`BruceBAD/`](BruceBAD/) · ~7,425 files across **506 payload folders** ·
 indexes: [`badusb_payloads.tsv`](index/badusb_payloads.tsv) (per folder) ·
 [`badusb_files.tsv`](index/badusb_files.tsv) (per script)
 

@@ -15,6 +15,7 @@ it, and what to check before you run it.
 5. [RFID / NFC (BruceRFID)](#5-rfid--nfc-brucerfid)
 6. [iButton (BruceIBTN)](#6-ibutton-bruceibtn)
 7. [Reading a payload safely — a checklist](#7-reading-a-payload-safely)
+8. [New content — Picopass, toys-to-life, on-device tools](#8-new-content-karma-consolidation)
 
 ---
 
@@ -293,3 +294,31 @@ brute-force/jamming files at equipment you don't own.
 
 *Generated as an index of a collected, third-party script library. File contents were not modified;
 this documentation only describes their role, format and safe handling.*
+
+---
+
+## 8. New content (Karma consolidation)
+
+### Picopass / iCLASS — [BruceRFID/Picopass](BruceRFID/Picopass/)
+HID iCLASS/Picopass access-control archive: `PicoGen/` (build a `.picopass` from a PACS
+string), `config-cards/` (13 reader-programming cards), `keys/` (29 default + 729 elite iCLASS
+keys, loclass master keys). **Bruce ships the ST25R3916 driver but NOT the Picopass protocol**
+— this is an archive for a future Bruce feature, usable today on Flipper Zero / Proxmark3. See
+the folder's own `README.md`.
+
+### Toys-to-life — [BruceRFID/toys-to-life](BruceRFID/toys-to-life/)
+`.nfc` dumps beyond Amiibo: Skylanders (~782) and Disney Infinity, plus their key/dict files.
+NTAG215/Mifare Classic tokens a game console reads to unlock figures.
+
+### On-device tools — [BruceJS](BruceJS/)
+- **`collection-browser.js`** — the guided catalog that runs *on the Bruce screen*: split-screen
+  (carousel + description), Pokédex icons, Guide, Search, "Quick by theme", and it transmits /
+  emits / writes / runs the selected file with confirmation. Reads the SD via
+  `storage.readdir(dir, {withFileTypes:true})`. Put it in `/BruceJS` and run from the Scripts menu.
+- **`apps/`** — community JS tools (koua29: launcher, lan-scanner, ble-finder, wifi-qr,
+  tv-b-gone, flock-detector; badgib: TransmitMenu, ChannelGraph, RSSIGraph, TextEdit; Jiggyv3:
+  RF/IR brute + replay). **`interpreter-official/`** — official Bruce interpreter scripts.
+
+### WiFi beacon-spam — [wordlists/ssid_list_bruce.txt](wordlists/ssid_list_bruce.txt)
+15,002 SSID names for Bruce's Beacon Spam mode (WiFi → Beacon Spam → custom list). Bruce reads a
+plain one-SSID-per-line `.txt`.

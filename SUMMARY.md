@@ -11,7 +11,7 @@ scripts (DuckyScript payloads and their companion `.ps1` / `.py` / `.js` helpers
 described in **[DOCUMENTATION.md](DOCUMENTATION.md)**.
 
 > 🔎 **Looking for a specific file, or want to browse by function?** See
-> **[INDEX.md](INDEX.md)** — a navigable, intelligently-grouped index of all 50,778 files, backed by
+> **[INDEX.md](INDEX.md)** — a navigable, intelligently-grouped index of all 53,050 files, backed by
 > searchable per-file tables in **[`index/`](index/)** (grep-able TSVs).
 
 ⚠️ **Legal note.** Most of this is dual-use. Transmitting on sub-GHz bands, cloning access tokens,
@@ -25,14 +25,15 @@ most jurisdictions. Use only on your own devices or with written authorization. 
 
 | Folder | Role | Bruce menu | Main format | Files |
 |---|---|---|---|---|
-| [BruceBAD/](BruceBAD/) | HID / BadUSB keystroke-injection payloads + companion scripts | BadUSB | `.txt` (DuckyScript) + `.ps1`/`.py`/`.sh`/`.js` | ~6960 |
-| [BruceEVIL/](BruceEVIL/) | Evil-Portal captive-portal clones (phishing login pages) | WiFi → Evil Portal | `.html` + `.txt` config | ~290 |
-| [BruceIR/](BruceIR/) | Infrared remote database (TVs, ACs, projectors, "TV-B-Gone" style) | Infrared → Universal / Custom | `.ir` | ~21200 |
-| [BruceRF/](BruceRF/) | Sub-GHz radio captures & brute-force files (433/315/868 MHz) | RF / Sub-GHz | `.sub`, `.raw` | ~19100 |
-| [BruceRFID/](BruceRFID/) | RFID / NFC tag dumps (Mifare, NTAG, Amiibo, etc.) | RFID | `.nfc`, `.rfid` | ~2700 |
-| [BruceIBTN/](BruceIBTN/) | iButton / Dallas 1-Wire key dumps | iButton | `.ibtn` | ~125 |
+| [BruceBAD/](BruceBAD/) | HID / BadUSB keystroke-injection payloads + companion scripts | BadUSB | `.txt` (DuckyScript) + `.ps1`/`.py`/`.sh`/`.js` | ~7425 |
+| [BruceEVIL/](BruceEVIL/) | Evil-Portal captive-portal clones (phishing login pages) | WiFi → Evil Portal | `.html` + `.txt` config | ~901 |
+| [BruceIR/](BruceIR/) | Infrared remote database (TVs, ACs, projectors, "TV-B-Gone" style) | Infrared → Universal / Custom | `.ir` | ~21315 |
+| [BruceRF/](BruceRF/) | Sub-GHz radio captures & brute-force files (433/315/868 MHz) | RF / Sub-GHz | `.sub`, `.raw` | ~19352 |
+| [BruceRFID/](BruceRFID/) | RFID / NFC tag dumps (Mifare, NTAG, Amiibo, etc.) | RFID | `.nfc`, `.rfid` | ~3574 |
+| [BruceIBTN/](BruceIBTN/) | iButton / Dallas 1-Wire key dumps | iButton | `.ibtn` | ~163 |
 | [BruceWebUI/](BruceWebUI/) | A CSS theme for Bruce's built-in web interface | Web UI | `.css` | 1 |
-| [wordlists/](wordlists/) | Dictionaries for WiFi/SSID/password and fuzzing tasks | (various) | `.txt` | ~285 |
+| [BruceJS/](BruceJS/) | On-device JS: guided browser + tool apps | Scripts / Interpreter | `.js` | 32 |
+| [wordlists/](wordlists/) | Dictionaries for WiFi/SSID/password and fuzzing tasks | (various) | `.txt` | ~288 |
 | [tesla port.sub](tesla%20port.sub) | Single sub-GHz RAW capture (Tesla charge-port style opener) | RF / Sub-GHz | `.sub` | 1 |
 
 ---
